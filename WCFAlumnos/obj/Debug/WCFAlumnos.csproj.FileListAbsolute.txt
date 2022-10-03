@@ -1,0 +1,13 @@
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.dll.config
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.dll
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\bin\WCFAlumnos.pdb
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\bin\Datos.dll
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\bin\Entidades.dll
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\bin\Negocio.dll
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.csproj.CopyComplete
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.dll
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\obj\Debug\WCFAlumnos.pdb
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\bin\Newtonsoft.Json.dll
+C:\Users\Tichs\source\C#\WCFAlumnos\WCFAlumnos\bin\Newtonsoft.Json.xml
